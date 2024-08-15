@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Statistical Machine Learning, AIML, DSA in Java**
+- 🌱 I’m currently learning **Statistical Machine Learning, AIML, DSA in Java, Operating Systems**
 
 - 💬 Ask me about **Python, Java, HTML, CSS**
 
